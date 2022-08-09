@@ -1,0 +1,5 @@
+package com.generation.farmagen.farmagen.repository;
+
+public class ProdutoRepository {
+
+}

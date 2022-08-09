@@ -1,0 +1,5 @@
+package com.generation.farmagen.farmagen.model;
+
+public class Categoria {
+
+}
